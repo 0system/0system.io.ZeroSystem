@@ -10,7 +10,7 @@
     "express": "^4.13.3",
     "fs-extra": "^0.24.0",
     "glob": "^5.0.14",
-    "jquery": "^1.11.3",
+    "jquery": "^3.5.1",
     "jsonwebtoken": "^5.4.1",
     "lodash": "^3.10.1",
     "lodash-deep": "^1.6.0",
