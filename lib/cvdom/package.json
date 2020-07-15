@@ -3,7 +3,7 @@
     "version": "0.0.3",
     "main": "cvdom.js",
     "dependencies": {
-        "lodash": "^3.10.1",
+        "lodash": "^4.17.19",
         "virtual-dom": "^2.1.1",
         "html2chscript": "^2.0.1"
     },
