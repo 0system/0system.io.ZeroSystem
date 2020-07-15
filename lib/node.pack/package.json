@@ -10,7 +10,7 @@
         "canonical-json": "0.0.4",
         "fs-extra": "^0.26.0",
         "glob": "^6.0.1",
-        "lodash": "^3.10.1",
+        "lodash": "^4.17.19",
         "minimist": "^1.2.0",
         "request": "^2.67.0"
     }
